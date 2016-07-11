@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E190BF0E8C4A3E21E5F298C226112AD028835E36",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E190BF0E8C4A3E21E5F298C226112AD028835E36" : 0,
+    "101F25E83F95081DC9182A8A4CDC0D519019991E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "36AB70A7-6E64-4A60-803E-F80B7986E821",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E190BF0E8C4A3E21E5F298C226112AD028835E36" : "swift-solving-trivia-ios-0616\/",
+    "101F25E83F95081DC9182A8A4CDC0D519019991E" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "swift-solving-trivia",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "swift-solving-trivia.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:salmaanrizvi\/swift-dictionaryMethods-readme-ios-0616.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "101F25E83F95081DC9182A8A4CDC0D519019991E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:salmaanrizvi\/swift-solving-trivia-ios-0616.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E190BF0E8C4A3E21E5F298C226112AD028835E36"
+    }
+  ]
+}
